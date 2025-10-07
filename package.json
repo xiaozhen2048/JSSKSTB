@@ -68,6 +68,9 @@
     "webpack-bundle-analyzer": "^4.5.0"
   },
   "resolutions": {
+    "react-spinner-children": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
     "axios": ">=0.21.1"
   },
   "bugs": {
